@@ -1,0 +1,62 @@
+{
+    "jules": {
+        "id": "jules",
+        "name": "ジュールス",
+        "image": "jules.jpg",
+        "feature": "jules.npy",
+        "gender": "male",
+        "age": "(38-43)",
+        "category": "man",
+        "interested": "チーズバーガー"
+    },
+    "vincent": {
+        "id": "vincent",
+        "name": "ビンセント",
+        "image": "vincent.jpg",
+        "feature": "vincent.npy",
+        "gender": "male",
+        "age": "(38-43)",
+        "category": "man",
+        "interested": "ツイスト(ダンス)"
+    },
+    "taro": {
+        "id": "taro",
+        "name": "太郎",
+        "image": "taro.jpg",
+        "feature": "taro.npy",
+        "gender": "male",
+        "age": "(15-20)",
+        "category": "boy",
+        "interested": "ポケモン"
+    },
+    "hanako": {
+        "id": "hanako",
+        "name": "花子",
+        "image": "hanako.jpg",
+        "feature": "hanako.npy",
+        "gender": "fumale",
+        "age": "(8-12)",
+        "category": "girl",
+        "interested": "お菓子づくり"
+    },
+    "REN": {
+        "id": "REN",
+        "name": "れん",
+        "image": "REN.jpg",
+        "feature": "REN.npy",
+        "gender": "female",
+        "age": "(8-12)",
+        "category": "girl",
+        "interested": "バスケットボ"
+    },
+    "ZHU": {
+        "id": "ZHU",
+        "name": "しゅ",
+        "image": "ZHU.jpg",
+        "feature": "ZHU.npy",
+        "gender": "female",
+        "age": "(38-43)",
+        "category": "woman",
+        "interested": "たべる"
+    }
+}
